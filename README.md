@@ -55,6 +55,27 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikiramandika&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikiramandika&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikiramandika&theme=dracula" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/nikiramandika" target="blank">
@@ -65,13 +86,5 @@
   </a>
   <a href="https://www.youtube.com/@nikiramandika" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="50" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikiramandika" alt="GitHub Trophies" />
   </a>
 </p>
