@@ -39,12 +39,7 @@
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiramandika&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikiramandika&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=&preferLogin=false">    <img  alt="nikiramandika's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nikiramandika?cardType=level&fontFamily=&preferLogin=false" />  </a>
 
 ---
 
