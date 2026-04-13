@@ -1,7 +1,18 @@
 <div align="center">
 
-<!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=120&section=header&text=Muhammad%20Niki%20Ramandika&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Backend%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=58&descSize=14&animation=fadeIn" />
+```
+~/github/nikiramandika
+```
+
+# Muhammad Niki Ramandika
+
+**Frontend & Backend Developer · UI/UX Enthusiast · Medan, ID**
+
+![](https://komarev.com/ghpvc/?username=nikiramandika&style=flat-square&color=6366f1)
+
+</div>
+
+---
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Turning+designs+into+experiences+%E2%9C%A6;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building." alt="Typing SVG" />
