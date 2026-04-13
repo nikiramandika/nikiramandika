@@ -20,13 +20,6 @@
 
 ---
 
-## 🚀 Currently Working On  
-- 🏗 **SmartBuy** (Laravel-based E-commerce Platform)  
-- 🔍 **Exploring React.js & Tailwind CSS** for modern UI/UX  
-- 🎯 **Preparing for Google Developer Group on Campus (GDGoC) Talent Speaker Event**  
-
----
-
 ## 🛠 My Tech Stack  
 <p align="center">
   <a href="https://reactjs.org/" target="_blank">
